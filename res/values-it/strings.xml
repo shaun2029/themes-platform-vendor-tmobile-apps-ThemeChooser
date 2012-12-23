@@ -16,7 +16,7 @@
  -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Theme Chooser</string>
+    <string name="app_name">Themes</string>
 
     <string name="menu_apply">Applica</string>
     <string name="menu_uninstall">Disinstalla</string>
