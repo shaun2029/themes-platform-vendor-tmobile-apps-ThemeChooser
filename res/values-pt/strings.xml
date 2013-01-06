@@ -31,4 +31,8 @@
     <string name="dialog_missing_theme_package_scope_msg">Este tema foi compilado impropriamente e não pode ser aplicado. Por favor, reporte este incidente ao autor do tema.</string>
     <string name="dialog_apply_anyway_btn">Aplicar assim mesmo</string>
     <string name="dialog_bummer_btn">Cancelar</string>
+    <string name="menu_about">Sobre</string>
+    <string name="theme_current_author">Autor:</string>
+    <string name="theme_current_name">Nome:</string>
+    <string name="theme_current_package">Pacote:</string>
 </resources>
